@@ -15,6 +15,10 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+theme: jekyll-theme-slate
+title: Welcome to alexander-varljen's homepage!
+description: Feel free to bookmark this to keep an eye on my project updates
+
 - Bulleted
 - List
 
