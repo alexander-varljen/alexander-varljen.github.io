@@ -75,6 +75,89 @@ subprocesses and exception handling to check for potential errors and bugs. Thes
 exception handling, which can be found in all functions that take in input and perform
 calculations, also aided me in achieving the final of the four course outcomes.
 
+###Artifact Enhancement Two: Storing and Sorting Bids
+
+Link to Public Page with the source file (marked "artifactTwo.zip")
+[Link](https://github.com/alexander-varljen/alexander-varljen.github.io)
+
+**Description of the Artifact:**
+
+The original project from which this artifact enhancement was taken from was called “CS 260 
+Data Structures and Algorithms: Hash Tables and Chaining”, which I created for an assignment
+back in February of 2021. The goal of the project was to create a program that, via four menu
+options, allowed the user to load bid data from a csv file into a Hash Table data structure,
+display all the bids from within this data structure, find one bid from the list stored in the
+Hash Table, and remove one bid from the Hash Table. My enhancement to this artifact was adding
+vector sorting capacity with four new menu options, one for loading the bids into the vector
+that was used for the vector sorting, one for displaying all the bids in this vector, one for
+sorting the bids in that vector via selection sort, and one for sorting the bids in that
+vector via quick sort. This enhancement was made in the third week of July in 2022.
+
+**Why This Artifact was Chosen:**
+
+I selected this artifact as my algorithms and data structures enhancement because it demonstrates
+my ability to store and manipulate data using multiple forms of data structure and different
+algorithms. These included an unmapped vector containing bid data and a mapped, or “hashed”,
+vector, also containing the bid data from a csv file. The unmapped vector was used by the vector
+sorting algorithms “quick sort” and “selection” sort, with selection sort being a simpler, but
+less efficient, algorithm and selection sort being a more complex but more efficient sorting
+algorithm, both of which were used to sort the bid data in ascending order. The mapped, or
+“hashed”, vector is a more complex vector to construct, but provides a much faster and more
+efficient way of finding an item, like a bid, than compared to using an unmapped vector. By 
+including both types of vectors and their corresponding algorithms in this project, I was able
+to demonstrate that I can work with multiple algorithms and data structures, which each have 
+their trade-offs, but can be utilized for different problems and desired outcomes.
+
+**Course Objectives:**
+
+As far as what I wanted to complete for this specific artifact, which was to add vector
+sorting capacity to the old project, as well as more menu options that allow the user to
+use the vector sorts, I have completed this main objective. In addition to the hash table
+data structure storing bid data and allowing for the finding or removal of single bids, there
+is now two working vector sorting algorithms that a user can use to sort the list of bids in
+ascending order. There where also four course outcome objectives that apply to this 
+enhancement which were to:
+1.	Employ strategies for building collaborative environments that enable diverse audiences
+        to support organizational decision making in the field of computer science.
+2.	Design, develop, and deliver professional-quality oral, written, and visual 
+        communications that are coherent, technically sound, and appropriately adapted to 
+	specific audiences and contexts.
+3.	Design and evaluate computing solutions that solve a given problem using algorithmic
+        principles and computer science practices and standards appropriate to its solution, 
+	while managing the trade-offs involved in design choices.
+4.	Develop a security mindset that anticipates adversarial exploits in software 
+        architecture and designs to expose potential vulnerabilities, mitigate design flaws, and
+	ensure privacy and enhanced security of data and resources.
+As far as completing the first objective, I was able to add plenty of comments and a description
+of the program’s functionality to the artifact, as well as many user-defined functions for
+modularity. These can make it easier for any programmer looking to review, add to, or change
+components of the program to do so. As far as achieving the second course objective, this 
+document explains what the artifact is and what the enhancements were using technically sound
+terms and descriptions. In alignment with the third course objective, I was able to properly
+provide the ability to load data from a csv file and allow a user to display all the data, remove
+specific items, find specific items, and sort items in a data structure using two data structures
+and multiple algorithms which grant these capabilities. Also, with regards to the last of the
+course objectives, I was able to employ multiple examples of exception handling for bugs or errors
+in processing data. More, specifically, these can be found as part of the methods that contain code
+loading the csv file to the mapped and unmapped vectors.  
+
+**Reflection:**
+
+As part of the process of completing my enhancements to this artifact, I had to look over the
+program thoroughly to understand how it works, what enhancements where possible without changing
+the whole program, and, when those enhancements were decided on, what programming decisions would
+be necessary to complete those enhancements. This was made easier by my familiarity with C++,
+which is the programming language that I am most familiar with. While going through this process
+of reviewing the projects code, I noticed that the Hash Table data structure doesn’t easily lend 
+itself to vector sorting, so I added an additional vector. This became central to many of my other
+programming decisions, which includes four new menu options and an extra algorithm for loading the
+new vector with the csv file data. I don’t believe that a set of menu options like this would
+normally take place. However, I wanted to display multiple forms of data structures and algorithms
+while using the same source of data and the same theme of the program, which was storing, adding to,
+removing, and looking up bids. So, to have a coherent program with one main theme while still
+demonstrating multiple data structures, I added a second set of options that were labeled differently
+for the users benefit. 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
