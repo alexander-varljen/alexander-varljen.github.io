@@ -17,5 +17,8 @@ The word document marked "Artifact One Enhancement Narrative" is the APA style p
 with the written description of the artifact titled "Artifact Enhancement One: Banking Program" found
 on my GitHub Pages webpage.
 
+The file marked "artifactoneimage.jpg" is a Flowchart for the Python banking program in 
+"artifactone.zip".
+
 More may be added to this readme in the future...
 
