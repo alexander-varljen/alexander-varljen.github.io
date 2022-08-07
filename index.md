@@ -16,6 +16,9 @@ program files.
 Link to Public Page with the source file (marked "artifactone.zip")
 [Link](https://github.com/alexander-varljen/alexander-varljen.github.io)
 
+**Banking Program's Flowchart**
+![Image](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifactoneimage.jpg? raw=true)
+
 **Description of the Artifact:**
 
 The artifact demonstrating my software development/engineering skills, which was created between 
