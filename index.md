@@ -17,7 +17,7 @@ Link to Public Page with the source file (marked "artifactone.zip")
 [Link](https://github.com/alexander-varljen/alexander-varljen.github.io)
 
 **Banking Program's Flowchart**
-![Image](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifactoneimage.jpg? raw=true)
+![Image](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifactoneimage.jpg)
 
 **Description of the Artifact:**
 
