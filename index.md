@@ -14,13 +14,15 @@ program files.
 ### Code Review
 
 Link to Code Review Video:
+
 [Zipped File Version Link](https://drive.google.com/file/d/19qB4ywqz7rjAAgLcKoWCNpRRDYibPWUh/view?usp=sharing)
+
 [MOV File Version Link](https://drive.google.com/file/d/10cxJDtofgnS_sbGbILLz1FpD3kXjxyGa/view?usp=sharing)
 
 ### Artifact Enhancement One: Banking Program 
 
-Link to Public Page with the source file (marked "artifactone.zip")
-[Link](https://github.com/alexander-varljen/alexander-varljen.github.io)
+Link to Public Page with the source file (marked
+[Link](https://github.com/alexander-varljen/alexander-varljen.github.io) )
 
 **Banking Program's Flowchart**
 
