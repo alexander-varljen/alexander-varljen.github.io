@@ -21,8 +21,8 @@ Link to Code Review Video:
 
 ### Artifact Enhancement One: Banking Program 
 
-Link to Public Page with the source file (marked
-[Link](https://github.com/alexander-varljen/alexander-varljen.github.io) )
+Link to Public Page with the source file (
+[artifactone.zip](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifactone.zip) )
 
 **Banking Program's Flowchart**
 
@@ -89,8 +89,8 @@ calculations, also aided me in achieving the final of the four course outcomes.
 
 ### Artifact Enhancement Two: Storing and Sorting Bids
 
-Link to Public Page with the source file (marked "artifacttwo.zip")
-[Link](https://github.com/alexander-varljen/alexander-varljen.github.io)
+Link to Public Page with the source file (
+[artifacttwo.zip](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifacttwo.zip) )
 
 **Description of the Artifact:**
 
@@ -173,8 +173,8 @@ for the users benefit.
 
 ### Artifact Enhancement Three: Quantigration Database
 
-Link to Public Page with the source file (marked "artifactthree.zip")
-[Link](https://github.com/alexander-varljen/alexander-varljen.github.io)
+Link to Public Page with the source file (
+[artifactthree.zip](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifactthree.zip) )
 
 **Description of Artifact**
 
