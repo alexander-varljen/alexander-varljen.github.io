@@ -11,6 +11,11 @@ interest include programming, data analysis, and data science. Please review the
 below and feel free to click the links provided to my public GitHub page containing my 
 program files.
 
+### Code Review
+
+Link to Code Review Video:
+[Link](https://drive.google.com/file/d/19qB4ywqz7rjAAgLcKoWCNpRRDYibPWUh/view?usp=sharing)
+
 ### Artifact Enhancement One: Banking Program 
 
 Link to Public Page with the source file (marked "artifactone.zip")
