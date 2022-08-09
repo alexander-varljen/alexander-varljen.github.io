@@ -14,7 +14,8 @@ program files.
 ### Code Review
 
 Link to Code Review Video:
-[Link](https://drive.google.com/file/d/19qB4ywqz7rjAAgLcKoWCNpRRDYibPWUh/view?usp=sharing)
+[Zipped File Version Link](https://drive.google.com/file/d/19qB4ywqz7rjAAgLcKoWCNpRRDYibPWUh/view?usp=sharing)
+[MOV File Version Link](https://drive.google.com/file/d/10cxJDtofgnS_sbGbILLz1FpD3kXjxyGa/view?usp=sharing)
 
 ### Artifact Enhancement One: Banking Program 
 
