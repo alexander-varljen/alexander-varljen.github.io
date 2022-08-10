@@ -190,7 +190,7 @@ Link to Public Page with the source file (
 
 **Quantigration Updates MongoDB Database UML Diagram**
 
-
+![Image](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifactthreemongodbdiagram.png)
 
 **Description of Artifact**
 
