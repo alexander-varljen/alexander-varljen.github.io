@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/alexander-varljen/alexande
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## Welcome to Alex Varljen's GitHub Pages webpage
+## Alex Varljen's ePortfolio
 
 This webpage contains software artifacts worked on by Alexander Varljen. Alex's areas of
 interest include programming, data analysis, and data science. Please review the sources
