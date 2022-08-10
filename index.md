@@ -92,6 +92,14 @@ calculations, also aided me in achieving the final of the four course outcomes.
 Link to Public Page with the source file (
 [artifacttwo.zip](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifacttwo.zip) )
 
+**Storing and Sorting Bids Program Flowchart (Original)**
+
+![Image](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifacttwooriginalflowchart.png)
+
+**Storing and Sorting Bids Program Flowchart (Enhancment)**
+
+![Image](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifacttwoenhancementflowchart.png)
+
 **Description of the Artifact:**
 
 The original project from which this artifact enhancement was taken from was called “CS 260 
@@ -171,10 +179,18 @@ removing, and looking up bids. So, to have a coherent program with one main them
 demonstrating multiple data structures, I added a second set of options that were labeled differently
 for the users benefit. 
 
-### Artifact Enhancement Three: Quantigration Database
+### Artifact Enhancement Three: QuantigrationUpdates Database
 
 Link to Public Page with the source file (
 [artifactthree.zip](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifactthree.zip) )
+
+**Quantigration Updates MySQL Database UML Diagram**
+
+![Image](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifactthreemysqldiagram.png)
+
+**Quantigration Updates MongoDB Database UML Diagram**
+
+![Image](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifactthreemongodbdiagram.png)
 
 **Description of Artifact**
 
