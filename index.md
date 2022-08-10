@@ -11,6 +11,9 @@ interest include programming, data analysis, and data science. Please review the
 below and feel free to click the links provided to my public GitHub page containing my 
 program files.
 
+You can access any of the project files mentioned on this page [here,](https://github.com/alexander-varljen/alexander-varljen.github.io)
+or click the links throughout the page to see the individual files.
+
 ### Code Review
 
 Link to Code Review Video:
