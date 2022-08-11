@@ -1,9 +1,14 @@
 ## Alex Varljen's ePortfolio
 
-This webpage contains software artifacts worked on by Alexander Varljen. Alex's areas of
-interest include programming, data analysis, and data science. Please review the sources
-below and feel free to click the links provided to my public GitHub page containing my 
-program files.
+This is an ePortfolio that was constructed for CS 499 Computer Science Capstone, a course
+at Southern New Hampshire University were Bachelor of Science in Computer Science degree
+students integrate the skills we have developed over the course of our program. In this
+ePortofio, you will find a professional self-assessment, a video code review of three selected
+past code project artifacts, one that is software design/engineering related, one that is
+algorithms and data structure related, and one that is databases related, and three artifact
+enhancements with accompanying narratives. I am Alexander Varljen, a student at SNHU and the
+creator of this ePortfolio and its contents. Feel free to explore the page, click any of the
+links, and download any files that you wish.
 
 You can access any of the project files mentioned on this page [here,](https://github.com/alexander-varljen/alexander-varljen.github.io)
 or click the links throughout the page to see the individual files.
