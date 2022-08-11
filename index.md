@@ -1,9 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/alexander-varljen/alexander-varljen.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ## Alex Varljen's ePortfolio
 
 This webpage contains software artifacts worked on by Alexander Varljen. Alex's areas of
@@ -14,15 +8,29 @@ program files.
 You can access any of the project files mentioned on this page [here,](https://github.com/alexander-varljen/alexander-varljen.github.io)
 or click the links throughout the page to see the individual files.
 
+### Contents of This Page
+
+   - Professional Self-Assessment
+   - Code Review
+   - Artifact One Enhancement
+   - Artifact Two Enhancement
+   - Artifact Three Enhancement
+   - References
+
 ### Code Review
 
-Link to Code Review Video:
+I created a video recording of a code review that I had performed on the three artifacts that
+I selected for my enhancements. In the video, I first cover the project that I selected for my 
+Artifact One Enhancement, then the project that I selected for my Artifact Two Enhancement,
+then the project that I selected for my Artifact Three Enhancement. You can see the video from my
+Google Drive account [here,](https://drive.google.com/file/d/10cxJDtofgnS_sbGbILLz1FpD3kXjxyGa/view?usp=sharing) 
+or you can access a zipped version of the MOV video file to download for yourself [here.](https://drive.google.com/file/d/19qB4ywqz7rjAAgLcKoWCNpRRDYibPWUh/view?usp=sharing)
 
 [Zipped File Version Link](https://drive.google.com/file/d/19qB4ywqz7rjAAgLcKoWCNpRRDYibPWUh/view?usp=sharing)
 
 [MOV File Version Link](https://drive.google.com/file/d/10cxJDtofgnS_sbGbILLz1FpD3kXjxyGa/view?usp=sharing)
 
-### Artifact Enhancement One: Banking Program 
+### Artifact One Enhancement: Bank Program 
 
 Link to Public Page with the source file (
 [artifactone.zip](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifactone.zip) )
@@ -90,7 +98,7 @@ subprocesses and exception handling to check for potential errors and bugs. Thes
 exception handling, which can be found in all functions that take in input and perform
 calculations, also aided me in achieving the final of the four course outcomes.
 
-### Artifact Enhancement Two: Storing and Sorting Bids
+### Artifact Two Enhancement: Storing and Sorting Bids Program
 
 Link to Public Page with the source file (
 [artifacttwo.zip](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifacttwo.zip) )
@@ -182,7 +190,7 @@ removing, and looking up bids. So, to have a coherent program with one main them
 demonstrating multiple data structures, I added a second set of options that were labeled differently
 for the users benefit. 
 
-### Artifact Enhancement Three: QuantigrationUpdates Database
+### Artifact Three Enhancement: QuantigrationUpdates Database
 
 Link to Public Page with the source file (
 [artifactthree.zip](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifactthree.zip) )
@@ -257,6 +265,8 @@ necessary tools to my computer. This was also the main source of the challenges 
 this project, as I have never downloaded and used MongoDB tools on my local device before. However,
 after seeking help from tech support, the internet, and some trial and error, I was able to use my 
 own working MongoDB shell and server to complete this artifact enhancement. 
+
+### References:
 
 ### Markdown
 
