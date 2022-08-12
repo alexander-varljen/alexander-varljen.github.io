@@ -341,6 +341,7 @@ own working MongoDB shell and server to complete this artifact enhancement.
 ### References:
 
 Grupman, C. (2022). 8 Data Analyst Skills Employers Need to See in 2022. _Dataquest._ [https://www.dataquest.io/blog/data-analyst-skills/](https://www.dataquest.io/blog/data-analyst-skills/)
+
 Berkely Extension. (2022). 11 Data Scientist Skills Employers Want to See in 2022. _Berkely Extension._ [https://bootcamp.berkeley.edu/blog/data-scientist-skills/](https://bootcamp.berkeley.edu/blog/data-scientist-skills/) 
 
 
