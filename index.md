@@ -22,6 +22,73 @@ or click the links throughout the page to see the individual files.
    - Artifact Three Enhancement
    - References
 
+### Professional Self-Assessment
+
+I have been in SNHU’s B.S. of Computer Science program since the summer of 2019. During this
+time, I’ve participated in courses and projects that range from CS 310 Collaboration and Team
+Project, where we worked together as a class to use versioning, group repositories, and code
+reviews to work on a software application as a group, to CS 250 Software Development Lifecycle,
+where I participated in each stage of the SDLC. I have learned how to design affective software
+for specific purposes, construct algorithms and deploy data structures that complete complex
+tasks with a relatively short amount of code, and create, read, update, and delete items from
+databases. To showcase these skills, I enhanced three of my past projects, or _artifacts_, which
+are a bank application, a program that stores and sorts bid data, and a database with three
+tables where a full gamut of CRUD commands were used.
+
+To justify why I chose these projects, I should first discuss what the course requirements are
+and where my interests and career plans lie. First, we were to select one artifact from each
+of three categories: software design/engineering, algorithms and data structure, and databases.
+Also, we needed to demonstrate our ability to collaborate in a team environment, affectively
+communicate to stake holders, and develop a security mindset. During my experiences as a
+computer science major, and after some of my own research, I’ve determined that I would focus
+my career plans on data analysis and data science. Data analysis requires skills related to
+database querying, an understanding of certain programming languages, such as SQL and Python,
+and the skills required to report findings, such as an ability to perform statistical analysis
+and create visual representations of data (Grupman, C., 2022). The skills required of data
+scientists are similar, yet often require more advanced knowledge of mathematics, SQL as well
+as NoSQL languages (such as MongoDB), and an understanding of machine learning algorithms
+(Berkeley Extension, 2022). There are other projects that I have worked on that demonstrate
+skills related to data analysis and data science, such as my final project for MAT 243 Applied
+Statistics for STEM, where I used Python to perform statistical analysis on the NBA basketball
+team, the “Wizards”, team performance data set. However, for this ePortoflio, I chose the three
+projects that I thought would best highlight my skills in the three computer science areas
+mentioned, as well as skills related to data science and data analysis.
+
+The first artifact enhancement that I chose was the source code for a bank application, where
+I reconstructed the C++ program using Python. This allowed me to show skills related to software
+design/engineering, as I was able to maintain the intended functionality of the original project
+while using a different programming language. It also highlighted my skills in a programming
+language that is used in data analysis and data science.
+
+The second artifact enhancement that I chose was the storing and sorting bids program, which
+was written in C++. The original program used chaining and a hash table data structure to
+store bids. To demonstrate my skills in constructing adequate algorithms and data structures,
+I increased the functionality of the program by adding vector sorting to sort the bids in
+ascending order. While I have not had the opportunity to learn machine learning algorithms yet,
+I plan on continuing my education in the future, and am hoping that I can apply what I’ve
+learned about data structures and algorithms to work on more advanced algorithms, such as
+machine learning algorithms. 
+
+The third artifact enhancement that I chose was the QuantigrationUpdates Database enhancement.
+The original project consisted of creating a three tabled database with MySQL, querying that
+database, updating it, deleting records from it, and downloading a table from it. My enhancement
+was to achieve the same functionality using MongoDB, a popular NoSQL language, along with adding
+user authentication. This highlights my ability to apply CRUD capable commands and queries in both
+SQL and NoSQL based languages to databases, which is a useful skill in both data analysis and data
+science.
+
+While working on these artifact enhancements and constructing my ePortfolio, I was also able
+to demonstrate the ability to work in a way conducive to a collaborative environment, communicate
+with stakeholders, and ensure software security. My ePortfolio webpage gives access to my public
+GitHub page, where one can find, access, download, and, potentially, contribute to the page. I’ve
+also included explanations, code comments, and data sets for the benefit of any visitors. I’ve
+also developed oral, visual, written communication in the form of a screencast video of my
+artifacts’ code review, flowcharts and UML diagrams of my artifacts and their enhancements,
+narratives accompanying the artifact enhancements, and readme documentation where appropriate.
+I’ve also worked on exception handling to reduce the affects of bugs in the first two artifacts’
+software, as well as password-secured user authentication for my QuantigrationUpdates Database,
+both of which demonstrate a security mindset when it comes to working with code. 
+
 ### Code Review
 
 I created a video recording of a code review that I had performed on the three artifacts that
@@ -272,6 +339,10 @@ after seeking help from tech support, the internet, and some trial and error, I 
 own working MongoDB shell and server to complete this artifact enhancement. 
 
 ### References:
+
+Grupman, C. (2022). 8 Data Analyst Skills Employers Need to See in 2022. _Dataquest._ [https://www.dataquest.io/blog/data-analyst-skills/](https://www.dataquest.io/blog/data-analyst-skills/)
+Berkely Extension. (2022). 11 Data Scientist Skills Employers Want to See in 2022. _Berkely Extension._ [https://bootcamp.berkeley.edu/blog/data-scientist-skills/](https://bootcamp.berkeley.edu/blog/data-scientist-skills/) 
+
 
 ### Markdown
 
