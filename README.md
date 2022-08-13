@@ -45,5 +45,9 @@ Database that was chosen for the arifact three enhancement.
 
 The file marked "artifactthreemongodbdiagram.png" is the UML digram for the artifact three enhancement. 
 
+The file marked "cs499finalproject.docx" is the documentation combining the professional self-assessment,
+a short description of the code review with provided links to the video, and the three accompanying artifact
+enhancement narratives. 
+
 More may be added to this readme in the future...
 
