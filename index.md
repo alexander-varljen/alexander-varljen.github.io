@@ -111,8 +111,7 @@ Link to Public Page with the source file (
 
 The original project that I picked to demonstrate my software development/engineering skills,
 which was created in February 2022, was the source code of a banking application called
-“CS 210 Project Two” (make this a link). This artifact presented a menu which asks the user
-to give an initial investment amount, a monthly deposit amount, an annual interest rate, and
+[“CS 210 Project Two”](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/cs210projecttwo.zip). This artifact presented a menu which asks the user to give an initial investment amount, a monthly deposit amount, an annual interest rate, and
 the number of years (up to five years) in which they wish to see the change in their end of
 year balance and accrued interest. Then, the end of year balance and accrued interest are
 calculated based on these inputs and an output display is made. My enhancement of this artifact
@@ -210,16 +209,15 @@ Link to Public Page with the source file (
 
 **Description of the Artifact:**
 
-The original project from which this artifact enhancement was taken from was called “CS 260 
-Data Structures and Algorithms: Hash Tables and Chaining” (make this a link), which I created for an assignment
-back in February of 2021. The goal of the project was to create a program that, via four menu
-options, allowed the user to load bid data from a csv file into a Hash Table data structure,
-display all the bids from within this data structure, find one bid from the list stored in the
-Hash Table, and remove one bid from the Hash Table. My enhancement to this artifact was adding
-vector sorting capacity with four new menu options, one for loading the bids into the vector
-that was used for the vector sorting, one for displaying all the bids in this vector, one for
-sorting the bids in that vector via selection sort, and one for sorting the bids in that
-vector via quick sort. This enhancement was made in the third week of July in 2022.
+The original project from which this artifact enhancement was taken from was called [“CS 260 
+Data Structures and Algorithms: Hash Tables and Chaining”](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/cs260hashtablesandchaining.zip), which I created for an assignment back in February of 2021. The goal of the project was to create
+a program that, via four menu options, allowed the user to load bid data from a csv file into
+a Hash Table data structure, display all the bids from within this data structure, find one bid
+from the list stored in the Hash Table, and remove one bid from the Hash Table. My enhancement
+to this artifact was adding vector sorting capacity with four new menu options, one for loading
+the bids into the vector that was used for the vector sorting, one for displaying all the bids in
+this vector, one for sorting the bids in that vector via selection sort, and one for sorting the
+bids in that vector via quick sort. This enhancement was made in the third week of July in 2022.
 
 **Why This Artifact was Chosen:**
 
@@ -319,7 +317,7 @@ Link to Public Page with the source file (
 
 **Description of Artifact**
 
-The original project from which the artifact enhancement was taken was called “DAD 220 Project One” (Add a link),
+The original project from which the artifact enhancement was taken was called [“DAD 220 Project One”](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/dad220projectone.docx),
 which I created for an assignment back in August of 2020. The goal of this project was to create a
 database called “QuantigrationUpdates” with three tables called “Customers”, “Orders”, and “RMA”,
 query their records, update their records, delete their records, and download the records from the
