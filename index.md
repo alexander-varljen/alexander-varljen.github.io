@@ -100,7 +100,7 @@ or you can access a zipped version of the MOV video file to download for yoursel
 
 ### Artifact One Enhancement: Bank Program 
 
-Link to Public Page with the source file (
+Link to public page with the source file (
 [artifactone.zip](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifactone.zip) )
 
 **Banking Program's Flowchart**
@@ -196,7 +196,7 @@ the week of this artifact’s completion.
 
 ### Artifact Two Enhancement: Storing and Sorting Bids Program
 
-Link to Public Page with the source file (
+Link to public page with the source file (
 [artifacttwo.zip](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifacttwo.zip) )
 
 **Storing and Sorting Bids Program Flowchart (Original)**
@@ -304,7 +304,7 @@ for the users benefit.
 
 ### Artifact Three Enhancement: QuantigrationUpdates Database
 
-Link to Public Page with the source file (
+Link to public page with the zipped file (
 [artifactthree.zip](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifactthree.zip) )
 
 **QuantigrationUpdates MySQL Database UML Diagram**
