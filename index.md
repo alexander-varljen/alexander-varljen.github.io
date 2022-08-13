@@ -307,11 +307,11 @@ for the users benefit.
 Link to Public Page with the source file (
 [artifactthree.zip](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifactthree.zip) )
 
-**Quantigration Updates MySQL Database UML Diagram**
+**QuantigrationUpdates MySQL Database UML Diagram**
 
 ![Image](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifactthreemysqldiagram.png)
 
-**Quantigration Updates MongoDB Database UML Diagram**
+**QuantigrationUpdates MongoDB Database UML Diagram**
 
 ![Image](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifactthreemongodbdiagram.png)
 
