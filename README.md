@@ -17,7 +17,7 @@ is an enhancement of.
 
 The file marked "cs499artifactonenarrative.docx" is the accompanying narrative for the Artifact One Enhancement.
 
-The file marked "artifactoneimage.png" is the flowchart for the Python banking program.
+The file marked "artifactoneimage.jpg" is the flowchart for the Python banking program.
 
 The file marked "artifacttwo.zip" is the C++ Bid Storing and Sorting program Enhancement mentioned in my GitHub
 pages webpage.
