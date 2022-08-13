@@ -105,7 +105,7 @@ Link to Public Page with the source file (
 
 **Banking Program's Flowchart**
 
-![Image](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifactoneimage.png)
+![Image](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifactoneimage.jpg)
 
 **Description of the Artifact:**
 
