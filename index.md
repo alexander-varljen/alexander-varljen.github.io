@@ -109,62 +109,91 @@ Link to Public Page with the source file (
 
 **Description of the Artifact:**
 
-The artifact demonstrating my software development/engineering skills, which was created between 
-July 10 and July 17, 2022, is a Python reconstruction of a banking application’s C++ source code,
-which is from a project that I had worked on in a previous course. This artifact presents a menu
-which asks the user to give an initialinvestment amount, a monthly deposit amount, an annual 
-interest rate, and the number of years (up until five years) in which they wish to see the change
-in their endof year balance and accrued interest. Then, the calculations are made based on the 
-users input and an output display is made.
+The original project that I picked to demonstrate my software development/engineering skills,
+which was created in February 2022, was the source code of a banking application called
+“CS 210 Project Two” (make this a link). This artifact presented a menu which asks the user
+to give an initial investment amount, a monthly deposit amount, an annual interest rate, and
+the number of years (up to five years) in which they wish to see the change in their end of
+year balance and accrued interest. Then, the end of year balance and accrued interest are
+calculated based on these inputs and an output display is made. My enhancement of this artifact
+was to recreate the program using Python, as well as to add more security measures and shorten
+the length of the program’s source code to increase efficiency. This enhancement was made during
+the second week of July in 2022.
 
 **Why This Artifact was Chosen:**
 
-I chose this artifact because it demonstrates my Python programming skills, which is a language 
-commonly used in data analysis and data science, my main fieldsof interest. The range of Python 
-programming techniques employed in this enhancement include user defined functions for subprocesses 
-such as checking and receivingvalid inputs, input receivers, while-loops, conditional statements, 
-output displays, and basic arithmetic operations for calculating the year-end balance and interest.
-Also, through working on this artifact, I was able to secure the integrity of the software more 
-faithfully by including exception handling for user inputs, which wasnot included in the original 
-C++ project. This demonstrates my ability to develop more secure, functional, and reliable software.
+I chose this artifact because it demonstrates my Python programming skills, which is a language
+commonly used in data analysis and data science, my main fields of interest. The range of Python
+programming techniques employed in this enhancement include user defined functions for
+subprocesses such as checking and receiving valid inputs, input receivers, while-loops, conditional
+statements, output displays, and basic arithmetic operations for calculating the year-end balance
+and interest. Also, through working on this artifact, I was able to secure the integrity of the
+software more faithfully by including exception handling for areas of the code receiving user
+input, as well as in areas that perform calculations. 
 
-**Artifact Enhancement and Course Objectives:**
+**Course Objectives:**
 
-My main objectives for this specific enhancement where to take my old project, give like functionality
-to the source code written in Python, make it more secure, and to add clearer and more concise code 
-comments for the benefit of other developers and reviewers of the source code. I believe that I met 
-all those objectives while working on this artifact, as this program has the same functionality as 
-the old C++ project and multiple try-catches were employed for exception handling around areas that
-accept input and do calculations. There were also four course outcomes for this enhancement that I 
-was to try and achieve, which are the following:
+While working on this artifact enhancement, I was able to employ strategies for building collaborative
+environments that enable diverse audiences to support organizational decision making in the field of
+computer science. This was done in three main ways. First, there are links to the zipped source file
+of this enhanced artifact, as well as to the original C++ project, which are both on my public
+GitHub repository. That public page also has a readme explaining the purpose of those and other
+files, along with an invitation to download any of the files for oneself. This allows anyone wishing
+to participate to learn about or potentially add to this project and make it their own or contribute
+to the project for the benefit of any developers accessing the page. Second, the source code in the
+enhancement itself employs modularity and clear user defined functions. This allows others to easily
+add to, remove, or move these modules, as well as more easily navigate the source code, for the
+purposes of collaborative work or independent efforts. Third, I made descriptive and specific code
+comments that allow others who would want to understand, change, or add to the code more easily able
+to do so.
 
-1.	Employ strategies for building collaborative environments that enable diverse audiences to 
-	support organizational decision making in the field of computer science.
-2.	Design, develop, and deliver professional-quality oral, written, and visual communications
-	that are coherent, technically sound, and appropriately adapted to specific audiences and 
-	contexts.
-3.	Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in 
-	computing practices for the purpose of implementing computersolutions that deliver value 
-	and accomplish industry-specific goals (software engineering/design/database).
-4.	Develop a security mindset that anticipates adversarial exploits in software architecture 
-        and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy
-	and enhanced security of data and resources.
-	
-With regards to achieving the first of these four course outcomes, I was able to create many 
-descriptive code comments throughout the program explaining the programs functionality, create
-a description of the program at the top of the source file, and add modularity by using various 
-user defined functions throughout the program. These features grant programmers and reviewers the 
-ability to look through the program and make sense of it, which can make it easier for them to 
-change, add to, or understand the program. In terms of reaching the second course outcome, this 
-document, as well as an in-program code comment at the top of the source file providing a 
-description, seeks to explain the accompanying Python banking program artifact using accurate 
-and comprehensive language. In terms of reaching the third course outcome, I was able to create
-a working program that does what it is meant to do, which is to take in four user inputs, use
-them to calculate end of year balance and interest, and display the results to the user. Also,
-I sought to use well-founded techniques, such as creating user-defined functions to handle 
-subprocesses and exception handling to check for potential errors and bugs. These cases of
-exception handling, which can be found in all functions that take in input and perform
-calculations, also aided me in achieving the final of the four course outcomes.
+While working on this artifact enhancement, I was able to design, develop, and deliver
+professional-quality oral, written, and visual communications that are coherent, technically sound,
+and appropriately adapted to specific audiences and contexts. In terms of oral communication for this
+artifact, I covered the original artifact in the first part of the code review video, where I went
+module by module discussing what the functionality of each module does and what improvements could
+be made. In terms of written communication, I wrote thorough code comments in my enhancement’s source
+code that describe the functionality of the user-defined functions and variables throughout the source
+code. I’ve also written this accompanying narrative to describe why I’ve chosen the artifact, what my
+enhancement of it was, and why I chose this enhancement. In terms of visual communication, I created an
+accurate flowchart showing the basic functionality of the artifact.
+
+While working on this artifact enhancement, I was able to demonstrate an ability to use well-founded
+and innovative techniques, skills, and tools in computing practices for the purpose of implementing
+computer solutions that deliver value and accomplish industry-specific goals. One of the well-founded
+techniques that I employed in the creation of the source code for the artifact enhancement was to
+use exception handling in areas of the code that receive user input and perform calculations. This
+helped ensure that specific messages were presented by the program if a bad input or an error in
+calculation has occurred. Also, by creating a program composed of modular user-defined functions,
+I was able to demonstrate the well-founded technique of making a program modular. The tool that I
+used to develop, test, and run my artifact enhancement’s source code was the Python 3.6.6 Shell.
+This tool allowed me to run lines of code one module at a time to watch for errors and output in
+specific areas of the code, which helped me ensure that, by the end of my work, there were no
+errors and that the output is what was intended.
+
+While working on this artifact enhancement, I was able to develop a security mindset that anticipates
+adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate
+design flaws, and ensure privacy and enhanced security of data and resources. There are no semantic
+or syntax errors in the enhanced artifact’s source code. I was able to ensure this by running the
+program module by module using the Python 3.6.6 Shell. Also, I was able to add exception handling
+and messages for multiple situations involving invalid inputs and calculation errors. For example,
+for the user-defined function containing the code for receiving the initial investment amount from
+the user, I created exception handling code that throws out the message “Invalid initial investment”
+if the values are less than or equal to zero, as only a positive numeric value would make sense for
+the program’s purposes. I created similar exception handling code for the other three inputs asking
+for numeric values, as well as for the areas performing calculations based on the inputs. 
+
+**Reflection**
+
+In the process of enhancing and modifying the artifact, I’ve had to refresh my knowledge of Python,
+as most of my previous experience with Python has been for constructing middle layer code for
+database queries and for statistical analysis. Therefore, I had to take some time and read
+documentation and practice with Python for more general purposes. Much of the new information
+that I needed to learn was also on exception handling in Python. I’ve had previous experience
+with exception handling using Java, but never with Python before working on this artifact.
+These challenges have caused me to, initially, work slowly on this artifact as I got my bearings.
+However, I’ve got more confident and competent along the way as I continued to work throughout
+the week of this artifact’s completion. 
 
 ### Artifact Two Enhancement: Storing and Sorting Bids Program
 
@@ -182,7 +211,7 @@ Link to Public Page with the source file (
 **Description of the Artifact:**
 
 The original project from which this artifact enhancement was taken from was called “CS 260 
-Data Structures and Algorithms: Hash Tables and Chaining”, which I created for an assignment
+Data Structures and Algorithms: Hash Tables and Chaining” (make this a link), which I created for an assignment
 back in February of 2021. The goal of the project was to create a program that, via four menu
 options, allowed the user to load bid data from a csv file into a Hash Table data structure,
 display all the bids from within this data structure, find one bid from the list stored in the
@@ -209,37 +238,54 @@ their trade-offs, but can be utilized for different problems and desired outcome
 
 **Course Objectives:**
 
-As far as what I wanted to complete for this specific artifact, which was to add vector
-sorting capacity to the old project, as well as more menu options that allow the user to
-use the vector sorts, I have completed this main objective. In addition to the hash table
-data structure storing bid data and allowing for the finding or removal of single bids, there
-is now two working vector sorting algorithms that a user can use to sort the list of bids in
-ascending order. There where also four course outcome objectives that apply to this 
-enhancement which were to:
-1.	Employ strategies for building collaborative environments that enable diverse audiences
-        to support organizational decision making in the field of computer science.
-2.	Design, develop, and deliver professional-quality oral, written, and visual 
-        communications that are coherent, technically sound, and appropriately adapted to 
-	specific audiences and contexts.
-3.	Design and evaluate computing solutions that solve a given problem using algorithmic
-        principles and computer science practices and standards appropriate to its solution, 
-	while managing the trade-offs involved in design choices.
-4.	Develop a security mindset that anticipates adversarial exploits in software 
-        architecture and designs to expose potential vulnerabilities, mitigate design flaws, and
-	ensure privacy and enhanced security of data and resources.
-	
-As far as completing the first objective, I was able to add plenty of comments and a description
-of the program’s functionality to the artifact, as well as many user-defined functions for
-modularity. These can make it easier for any programmer looking to review, add to, or change
-components of the program to do so. As far as achieving the second course objective, this 
-document explains what the artifact is and what the enhancements were using technically sound
-terms and descriptions. In alignment with the third course objective, I was able to properly
-provide the ability to load data from a csv file and allow a user to display all the data, remove
-specific items, find specific items, and sort items in a data structure using two data structures
-and multiple algorithms which grant these capabilities. Also, with regards to the last of the
-course objectives, I was able to employ multiple examples of exception handling for bugs or errors
-in processing data. More, specifically, these can be found as part of the methods that contain code
-loading the csv file to the mapped and unmapped vectors.  
+While working on this artifact enhancement, I was able to employ strategies for building
+collaborative environments that enable diverse audiences to support organizational decision
+making in the field of computer science. Those who want to interact with the source file,
+download it for themselves, make desired changes and even, potentially, recommit changes on
+an updated version of the file can easily do so via my public GitHub repository. Also, the
+source code of the artifact enhancement has been made modular, which means that others change
+modules, delete modules, or add their own modules with a few code changes and without much
+impact on the other modules. Also, the code comments that I had written for the project make
+it easier for others to add to, change, navigate, or learn from the code. For example, when
+one opens the source file, they’ll notice a short description of the source code’s functionality
+at the top of the file, two boxed-in code comments highlighting two main divisions in the
+program, which are the modules for the hashed table data structure and those for the vector
+sorting algorithms, and code comments describing each module. These help others working with
+and navigating through the source code understand how everything works together so that they
+can better participate. 
+
+While working on this artifact enhancement, I was able to design, develop, and deliver
+professional-quality oral, written, and visual communications that are coherent, technically
+sound, and appropriately adapted to specific audiences and contexts. The second artifact covered
+in the code review video is the original artifact for this enhancement, where I discussed the
+original source code, module by module, and assessed my own previous work. I’ve created two
+flowcharts for this artifact enhancement, one of which is a depiction of the functionality of
+the artifact before the enhancements, and the other a depiction of its functionality after the
+enhancements where made. I also wrote this descriptive narrative which helps explain my artifact,
+its enhancements, and my intent behind the enhancements. 
+
+While working on this artifact enhancement, I was able to Design and evaluate computing
+solutions that solve a given problem using algorithmic principles and computer science
+practices and standards appropriate to its solution, while managing the trade-offs involved
+in design choices. To solve the problem of sorting the bids, as well as show competence in
+creating functional algorithms, I created two vector sorting algorithms. This, however, was
+met with a trade-off in the form of having to add an extra data structure other than the hash
+table, which meant that the bids needed to be loaded by the program a second time. This led
+me to add two more menu options other than the two for the vector sorts, one for loading bids
+to the new vector and one for displaying the bids from this new vector, along with changing
+the menu labels to help the user understand the difference. This solution allowed me to manage
+this trade-off and let the user decide when to load the bids a second time while also allowing
+me to add two new functional sorting algorithms and meet my artifact enhancement goals.
+
+While working on this artifact enhancement, I was able to develop a security mindset that
+anticipates adversarial exploits in software architecture and designs to expose potential
+vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and
+resources. This was done by adding exception handling in the artifact enhancement’s source in
+key areas, which are in the modules that contain the code used to load bid data. These let the
+user know if there is an issue with the program when loading the bids. As the csv file containing
+bid data could, potentially, hold thousands of “bid id’s”, “titles”, “funds”, and “amounts”,
+which could be filled with the wrong type of data or come from a corrupted file, this seemed
+to be the area of the most vulnerability. I also made sure that the code ran without any errors. 
 
 **Reflection:**
 
@@ -273,7 +319,7 @@ Link to Public Page with the source file (
 
 **Description of Artifact**
 
-The original project from which the artifact enhancement was taken was called “DAD 220 Project One”,
+The original project from which the artifact enhancement was taken was called “DAD 220 Project One” (Add a link),
 which I created for an assignment back in August of 2020. The goal of this project was to create a
 database called “QuantigrationUpdates” with three tables called “Customers”, “Orders”, and “RMA”,
 query their records, update their records, delete their records, and download the records from the
@@ -296,34 +342,53 @@ adding password secured user accounts.
 
 **Course Objectives**
 
-My main objectives with this artifact enhancement where to recreate all the functionality of the
-original SQL project while adding more security using a MongoDB shell and tools. I was able to 
-successfully complete these objectives. There where also four course outcomes that apply to this 
-enhancement, which were to:
-1.	Employ strategies for building collaborative environments that enable diverse audiences to
-        support organizational decision making in the field of computer science.
-2.	Design, develop, and deliver professional-quality oral, written, and visual communications 
-	that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.
-3.	Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in
-        computing practices for the purpose of implementing computer solutions that deliver value and
-	accomplish industry-specific goals.
-4.	Develop a security mindset that anticipates adversarial exploits in software architecture and 
-        designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and 
-	enhanced security of data and resources.
-	
-As far as completing the first course outcome is concerned, I was able to take screenshots of my
-command terminal and explain why each of the commands were used. I will also download the three csv
-files used for each collection so that others wishing to learn or test my work can rerun the same
-commands with the same data sets and see the results. As far as completing the second course outcome
-is concerned, I formed my explanations written in the document containing my enhancement’s
-screenshots, as well as the enhancement’s description in this narrative, so that others could follow
-along and understand my MongoDB commands and what they were used for. As far as the third course
-outcome is concerned, I was able to correctly use MongoDB commands to create a database containing
-three collections, query the database, update it, add records to it, delete records from it, and download
-a collection from it. MongoDB is a well-respected set of software tools designed to work with structured
-and unstructured data and databases. As far as the fourth course outcome is concerned, I was able to
-add two accounts secured via a password that granted two levels of access to the Mongo Server that
-was used in creating the “QuantigrationUpdates” database. 
+While working on this artifact enhancement, I was able to employ strategies for building
+collaborative environments that enable diverse audiences to support organizational decision
+making in the field of computer science. My enhanced artifact zipped file is open for anyone to
+download and view for themselves from my public GitHub page. This file contains the three csv files
+used in the artifact’s enhancement, as well as a txt file containing all the MongoDB commands used,
+so that anyone who wishes to reconstruct the database themselves and conduct the same or different
+queries can do so. Also, if someone wishing to work with these MongoDB commands needs more
+information about what the commands are meant to accomplish, there is a word document with screenshots
+of the commands being used with written explanations for them located in the same zipped file. Also,
+the public GitHub page that this artifact enhancement can be found on grants others the opportunities
+to ask questions and propose suggestions pertaining to this and all the other projects and files
+located on the page. 
+
+While working on this artifact enhancement, I was able to design, develop, and deliver
+professional-quality oral, written, and visual communications that are coherent, technically sound,
+and appropriately adapted to specific audiences and contexts. In terms of oral communication for
+this artifact, this was the last artifact covered in the code review video, where I went over
+screenshots of each of the MySQL commands used and discussed their purpose and potential areas
+of change. In terms of written communication, the zipped file for this artifact contains a short
+readme describing the other five files that are contained in the zipped file, one of which is a
+word document, which contains screenshots of the MongoDB commands used and their output, along
+with explanations for the commands. I’ve also written this accompanying narrative to describe
+the original artifact, explain my enhancements, and justify why the enhancements where made.
+In terms of visual communication, I constructed two UML diagrams, on for the original MySQL
+QunatigrationUpdates database, and the other for the enhanced MongoDB database so that others
+can visualize the structure of these databases. 
+
+While working on this artifact enhancement, I was able to demonstrate an ability to use well-founded
+and innovative techniques, skills, and tools in computing practices for the purpose of implementing
+computer solutions that deliver value and accomplish industry-specific goals. Some of the well-founded
+techniques and skills that were used during this enhancement was a full display of CRUD operations,
+as I created a database using MongoDB commands, queried the collections of that database to find specific
+information, updated and added several fields in that database, and deleted some fields. The tools that
+I used during this artifact enhancement include a MongoDB Enterprise Server 6.0 and a MongoDB Shell,
+which I downloaded to my local device, and a Microsoft command prompt that was used to access the
+MongoDB Shell and perform MongoDB commands. 
+
+While working on this artifact enhancement, I was able to develop a security mindset that anticipates
+adversarial exploits in software architecture and designs to expose potential vulnerabilities,
+mitigate design flaws, and ensure privacy and enhanced security of data and resources. I demonstrated
+this by creating two password secured user accounts, one of which was an administrative account
+that was granted read/write access to all databases in the server, and the other was a user account
+that was granted read/write access to the QuantigrationUpdates database. I would also note that,
+after running each MongoDB command, a message displaying either a warning for errors or the task
+that was completed by the command is displayed. You can see these message outputs after the commands
+I used in the word document containing screenshots marked “CS 499 Artifact Three”, which is located
+in this artifact enhancement’s zipped file.
 
 **Reflection**
 
