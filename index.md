@@ -98,10 +98,6 @@ then the project that I selected for my Artifact Three Enhancement. You can see 
 Google Drive account [here,](https://drive.google.com/file/d/10cxJDtofgnS_sbGbILLz1FpD3kXjxyGa/view?usp=sharing) 
 or you can access a zipped version of the MOV video file to download for yourself [here.](https://drive.google.com/file/d/19qB4ywqz7rjAAgLcKoWCNpRRDYibPWUh/view?usp=sharing)
 
-[Zipped File Version Link](https://drive.google.com/file/d/19qB4ywqz7rjAAgLcKoWCNpRRDYibPWUh/view?usp=sharing)
-
-[MOV File Version Link](https://drive.google.com/file/d/10cxJDtofgnS_sbGbILLz1FpD3kXjxyGa/view?usp=sharing)
-
 ### Artifact One Enhancement: Bank Program 
 
 Link to Public Page with the source file (
