@@ -28,7 +28,7 @@ I have been in SNHU’s B.S. of Computer Science program since the summer of 201
 time, I’ve participated in courses and projects that range from CS 310 Collaboration and Team
 Project, where we worked together as a class to use versioning, group repositories, and code
 reviews to work on a software application as a group, to CS 250 Software Development Lifecycle,
-where I participated in each stage of the SDLC. I have learned how to design affective software
+where I participated in each stage of the SDLC. I have learned how to design effective software
 for specific purposes, construct algorithms and deploy data structures that complete complex
 tasks with a relatively short amount of code, and create, read, update, and delete items from
 databases. To showcase these skills, I enhanced three of my past projects, or _artifacts_, which
