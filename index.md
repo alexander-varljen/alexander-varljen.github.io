@@ -55,27 +55,42 @@ projects that I thought would best highlight my skills in the three computer sci
 mentioned, as well as skills related to data science and data analysis.
 
 The first artifact enhancement that I chose was the source code for a bank application, where
-I reconstructed the C++ program using Python. This allowed me to show skills related to software
-design/engineering, as I was able to maintain the intended functionality of the original project
-while using a different programming language. It also highlighted my skills in a programming
-language that is used in data analysis and data science.
+I reconstructed the C++ program using Python. This enhancement allowed me to demonstrate an
+ability to use well-founded and innovative techniques, skills, and tools in computing practices
+for the purpose of implementing computer solutions that deliver value and accomplish
+industry-specific goals. This includes creating user-defined functions for modularity,
+using exception handling to decrease the presents of bugs and secure the software, in-line code
+comments that are descriptive of the functionality of each module, and running and testing the
+code on a Python 3.6.6 Shell. This enhancement, as it was written in Python, has also highlighted
+my skills in a programming language that is used in data analysis and data science.
 
 The second artifact enhancement that I chose was the storing and sorting bids program, which
-was written in C++. The original program used chaining and a hash table data structure to
-store bids. To demonstrate my skills in constructing adequate algorithms and data structures,
-I increased the functionality of the program by adding vector sorting to sort the bids in
-ascending order. While I have not had the opportunity to learn machine learning algorithms yet,
-I plan on continuing my education in the future, and am hoping that I can apply what I’ve
-learned about data structures and algorithms to work on more advanced algorithms, such as
-machine learning algorithms. 
+was written in C++. The original program used chaining and a hash table data structure to store
+bids. To demonstrate my skills in constructing adequate algorithms and data structures, I increased
+the functionality of the program by adding vector sorting to sort the bids in ascending order.
+Working on this enhancement has also allowed me to demonstrate an ability to design and evaluate
+computing solutions that solve a given problem using algorithmic principles and computer science
+practices and standards appropriate to its solution, while managing the trade-offs involved in design
+choices, as I was able to add two different working sorting algorithms and resolve a data structure
+related issue by adding a second vector and allowing the user to decide when to use the second
+data structure. While I have not had the opportunity to learn machine learning algorithms yet,
+I plan on continuing my education in the future, and am hoping that I can apply what I’ve learned
+about data structures and algorithms to work on more advanced algorithms, such as machine learning
+algorithms, as such knowledge is important to the field of data science.
 
 The third artifact enhancement that I chose was the QuantigrationUpdates Database enhancement.
 The original project consisted of creating a three tabled database with MySQL, querying that
 database, updating it, deleting records from it, and downloading a table from it. My enhancement
-was to achieve the same functionality using MongoDB, a popular NoSQL language, along with adding
-user authentication. This highlights my ability to apply CRUD capable commands and queries in both
-SQL and NoSQL based languages to databases, which is a useful skill in both data analysis and data
-science.
+of this was to achieve the same functionality using MongoDB, a popular NoSQL language, along
+with adding user authentication. Working on this artifact has allowed me to demonstrate an ability
+to use well-founded and innovative techniques, skills, and tools in computing practices for the
+purpose of implementing computer solutions that deliver value and accomplish industry-specific
+goals, as I was able to create a database with three collections, query the database for
+information, update fields in the database, delete items from the database, and download a
+collection from the database while using a local MongoDB Enterprise Server 6.0 and a MongoDB shell.
+Working on this artifact enhancement has also shown my ability to apply CRUD capable commands and
+queries in both SQL and NoSQL based languages to databases, which is a useful skill in both data
+analysis and data science.
 
 While working on these artifact enhancements and constructing my ePortfolio, I was also able
 to demonstrate the ability to work in a way conducive to a collaborative environment, communicate
@@ -262,7 +277,7 @@ the artifact before the enhancements, and the other a depiction of its functiona
 enhancements where made. I also wrote this descriptive narrative which helps explain my artifact,
 its enhancements, and my intent behind the enhancements. 
 
-While working on this artifact enhancement, I was able to Design and evaluate computing
+While working on this artifact enhancement, I was able to design and evaluate computing
 solutions that solve a given problem using algorithmic principles and computer science
 practices and standards appropriate to its solution, while managing the trade-offs involved
 in design choices. To solve the problem of sorting the bids, as well as show competence in
