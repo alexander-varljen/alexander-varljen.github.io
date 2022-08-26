@@ -6,6 +6,10 @@ Author: Alexander Varljen
 
 Fell free to download any file that you wish.
 
+The file marked "MAT 243 Project Three Summary Report.docx" is a report of a statistical analysis, where Python and the NumPy
+library was used for the analysis and visuals, for a fictional NBA basketball team's coach and team management using a data set of NBA 
+basketball team score data from years 1995 to 2015.
+
 The file marked "dad220projectone.docx" is a word document with screenshots and descriptions of MySQL CRUD commands used for a 
 database called "QuantigrationUpdates".
 
