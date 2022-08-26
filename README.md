@@ -6,6 +6,9 @@ Author: Alexander Varljen
 
 Fell free to download any file that you wish.
 
+The file marked "DAD 215 Final Project" is a report on the analysis of a data set for New York City's "Citi Bike Program" 
+using the SAS system.
+
 The file marked "DAT 210 Final Project" is an analysis report for a fictional athletics company called "RfG".
 
 The file marked "DAT 220 Final Project" is an analysis report for a fictional company called "Bubba Gump Shrimp Company".
