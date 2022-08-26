@@ -6,6 +6,8 @@ Author: Alexander Varljen
 
 Fell free to download any file that you wish.
 
+The file marked "DAT 200 Final Project" is an analysis report for a fictional company called "Bubba Gump Shrimp Company".
+
 The file marked "cs499professionalself-assessment.docx" is an APA style paper that contains my
 professional self-assessment.
 
