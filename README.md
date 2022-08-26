@@ -6,12 +6,15 @@ Author: Alexander Varljen
 
 Fell free to download any file that you wish.
 
-The file marked "DAD 215 Final Project" is a report on the analysis of a data set for New York City's "Citi Bike Program" 
+The file marked "dad220projectone.docx" is a word document with screenshots and descriptions of MySQL CRUD commands used for a 
+database called "QuantigrationUpdates".
+
+The file marked "DAD 215 Final Project.docx" is a report on the analysis of a data set for New York City's "Citi Bike Program" 
 using the SAS system.
 
-The file marked "DAT 210 Final Project" is an analysis report for a fictional athletics company called "RfG".
+The file marked "DAT 210 Final Project.docx" is an analysis report for a fictional athletics company called "RfG".
 
-The file marked "DAT 220 Final Project" is an analysis report for a fictional company called "Bubba Gump Shrimp Company".
+The file marked "DAT 220 Final Project.docx" is an analysis report for a fictional company called "Bubba Gump Shrimp Company".
 
 The file marked "cs499professionalself-assessment.docx" is an APA style paper that contains my
 professional self-assessment.
