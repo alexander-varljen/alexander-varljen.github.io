@@ -56,7 +56,7 @@ Hello and welcome to my ePortfolio were projects and certifications which displa
 
 ### Feature Selection Project: DAT-610 Module Six Exercise
 
-![Image]()
+![Image](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/DAT-610%20Module%20Six%20Exercise%20Visual.png)
 
 **Project Description**
 
