@@ -21,7 +21,6 @@ or click the links throughout the page to see the individual files.
    - Feature Selection Project
    - Data Analytics Certifications
 
-
 Google Drive account [here,](https://drive.google.com/file/d/10cxJDtofgnS_sbGbILLz1FpD3kXjxyGa/view?usp=sharing) 
 or you can access a zipped version of the MOV video file to download for yourself [here.](https://drive.google.com/file/d/19qB4ywqz7rjAAgLcKoWCNpRRDYibPWUh/view?usp=sharing)
 
@@ -34,8 +33,6 @@ or you can access a zipped version of the MOV video file to download for yoursel
 **Description of the Project:**
 
 [DAT 640 Final Project](https://docs.google.com/document/d/1MaaLNNyBRTXur2B3V0e1s8Pz4Rw5QLnk/edit?usp=sharing&ouid=105763848355793464629&rtpof=true&sd=true) is a report for a project in which I built a prediction model for a fictional insurance company "TIC". The business problem presented was to predict which customers where likely to purchase TIC's "Caravan" insurance policies. The project involved some preliminary exploratory analysis of the dataset and the construction of a pruned decision tree model, which could predict who would purchase a Caravan insurance policy with about 92% accuracy. The tools and resources used for this project included the TIC dataset, the R programming language and packages, and RStudio. Documentation of the R code used is included in the report.
-
-[“CS 210 Project Two”](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/cs210projecttwo.zip).
 
 ### Artifact Two Enhancement: Storing and Sorting Bids Program
 
