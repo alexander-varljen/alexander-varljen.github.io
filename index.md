@@ -13,9 +13,9 @@ Hello and welcome to my ePortfolio were projects and certifications which displa
 
 ### Predictive Modeling Project: DAT-640 Final Project
 
-**DAT-650 Final Project Decision Tree**
+**DAT-640 Final Project Decision Tree**
 
-![Image]()
+![Image](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/DAT-640%20Decision%20Tree.png)
 
 **Project Description**
 
@@ -23,6 +23,7 @@ Hello and welcome to my ePortfolio were projects and certifications which displa
 
 ### Data Visualizations Project: DAT-530
 
+**Storm Event Types Visualization from Public Webpage**
 ![Image]()
 
 **Project Description**
