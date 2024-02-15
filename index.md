@@ -65,10 +65,10 @@ Hello and welcome to my ePortfolio were projects and certifications which displa
 
 The following are my certifications, all of which where recieved from WileyPlus, which include core data analysis certifications, business and financial related data analytics certifications, and a Power BI certification:
 
-[Microsoft Power BI - Use PBI Desctop to Create Reports and Dashboards](https://drive.google.com/file/d/1i1p6TQz99nJaLw9eTAST3YC40r-RlFcf/view?usp=drive_link)
-[Introduction to Data Analytics](https://drive.google.com/file/d/1rwKX6lKTKfK1AXSmEOilkTVTHBMmAjCT/view?usp=drive_link)
-[Applying Data Analytics to Business Performance](https://drive.google.com/file/d/1h-4sGf1x58YwjREDVxji95bNkKvz0vVO/view?usp=drive_link)
-[Applying Data Analytics to Financial Planning and Analysis](https://drive.google.com/file/d/1A0I-2dHDYjEJwQl8cwKpbwR67CuTtuVL/view?usp=drive_link)
-[Applying Data Analytics to Revenue Analysis](https://drive.google.com/file/d/1KMkqQQ7YTVSCWfTjFlmozd0QNMblJ0ux/view?usp=drive_link)
-[Application of Data Analysis essentials Certificate: Module 11: Fraud Detection Case Study](https://drive.google.com/file/d/1xsWsWoIRJs9yk8GqLRCICxlAffg9ysL_/view?usp=drive_link)
+[Microsoft Power BI - Use PBI Desctop to Create Reports and Dashboards](https://drive.google.com/file/d/1i1p6TQz99nJaLw9eTAST3YC40r-RlFcf/view?usp=drive_link),
+[Introduction to Data Analytics](https://drive.google.com/file/d/1rwKX6lKTKfK1AXSmEOilkTVTHBMmAjCT/view?usp=drive_link),
+[Applying Data Analytics to Business Performance](https://drive.google.com/file/d/1h-4sGf1x58YwjREDVxji95bNkKvz0vVO/view?usp=drive_link),
+[Applying Data Analytics to Financial Planning and Analysis](https://drive.google.com/file/d/1A0I-2dHDYjEJwQl8cwKpbwR67CuTtuVL/view?usp=drive_link),
+[Applying Data Analytics to Revenue Analysis](https://drive.google.com/file/d/1KMkqQQ7YTVSCWfTjFlmozd0QNMblJ0ux/view?usp=drive_link),
+[Application of Data Analysis essentials Certificate: Module 11: Fraud Detection Case Study](https://drive.google.com/file/d/1xsWsWoIRJs9yk8GqLRCICxlAffg9ysL_/view?usp=drive_link),
 
