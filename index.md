@@ -15,199 +15,27 @@ or click the links throughout the page to see the individual files.
 
 ### Contents of This Page
 
-   - Professional Self-Assessment
-   - Code Review
-   - Artifact One Enhancement
-   - Artifact Two Enhancement
-   - Artifact Three Enhancement
-   - References
+   - Predictive Modeling Project
+   - Data Visualizations Project
+   - Database Projects
+   - Feature Selection Project
+   - Data Analytics Certifications
 
-### Professional Self-Assessment
 
-I have been in SNHU’s B.S. of Computer Science program since the summer of 2019. During this
-time, I’ve participated in courses and projects that range from CS 310 Collaboration and Team
-Project, where we worked together as a class to use versioning, group repositories, and code
-reviews to work on a software application as a group, to CS 250 Software Development Lifecycle,
-where I participated in each stage of the SDLC. I have learned how to design affective software
-for specific purposes, construct algorithms and deploy data structures that complete complex
-tasks with a relatively short amount of code, and create, read, update, and delete items from
-databases. To showcase these skills, I enhanced three of my past projects, or _artifacts_, which
-are a bank application, a program that stores and sorts bid data, and a database with three
-tables where a full gamut of CRUD commands were used.
-
-To justify why I chose these projects, I should first discuss what the course requirements are
-and where my interests and career plans lie. First, we were to select one artifact from each
-of three categories: software design/engineering, algorithms and data structure, and databases.
-Also, we needed to demonstrate our ability to collaborate in a team environment, affectively
-communicate to stake holders, and develop a security mindset. During my experiences as a
-computer science major, and after some of my own research, I’ve determined that I would focus
-my career plans on data analysis and data science. Data analysis requires skills related to
-database querying, an understanding of certain programming languages, such as SQL and Python,
-and the skills required to report findings, such as an ability to perform statistical analysis
-and create visual representations of data (Grupman, C., 2022). The skills required of data
-scientists are similar, yet often require more advanced knowledge of mathematics, SQL as well
-as NoSQL languages (such as MongoDB), and an understanding of machine learning algorithms
-(Berkeley Extension, 2022). There are other projects that I have worked on that demonstrate
-skills related to data analysis and data science, such as my final project for MAT 243 Applied
-Statistics for STEM, where I used Python to perform statistical analysis on the NBA basketball
-team, the “Wizards”, team performance data set. However, for this ePortoflio, I chose the three
-projects that I thought would best highlight my skills in the three computer science areas
-mentioned, as well as skills related to data science and data analysis.
-
-The first artifact enhancement that I chose was the source code for a bank application, where
-I reconstructed the C++ program using Python. This enhancement allowed me to demonstrate an
-ability to use well-founded and innovative techniques, skills, and tools in computing practices
-for the purpose of implementing computer solutions that deliver value and accomplish
-industry-specific goals. This includes creating user-defined functions for modularity,
-using exception handling to decrease the presents of bugs and secure the software, in-line code
-comments that are descriptive of the functionality of each module, and running and testing the
-code on a Python 3.6.6 Shell. This enhancement, as it was written in Python, has also highlighted
-my skills in a programming language that is used in data analysis and data science.
-
-The second artifact enhancement that I chose was the storing and sorting bids program, which
-was written in C++. The original program used chaining and a hash table data structure to store
-bids. To demonstrate my skills in constructing adequate algorithms and data structures, I increased
-the functionality of the program by adding vector sorting to sort the bids in ascending order.
-Working on this enhancement has also allowed me to demonstrate an ability to design and evaluate
-computing solutions that solve a given problem using algorithmic principles and computer science
-practices and standards appropriate to its solution, while managing the trade-offs involved in design
-choices, as I was able to add two different working sorting algorithms and resolve a data structure
-related issue by adding a second vector and allowing the user to decide when to use the second
-data structure. While I have not had the opportunity to learn machine learning algorithms yet,
-I plan on continuing my education in the future, and am hoping that I can apply what I’ve learned
-about data structures and algorithms to work on more advanced algorithms, such as machine learning
-algorithms, as such knowledge is important to the field of data science.
-
-The third artifact enhancement that I chose was the QuantigrationUpdates Database enhancement.
-The original project consisted of creating a three tabled database with MySQL, querying that
-database, updating it, deleting records from it, and downloading a table from it. My enhancement
-of this was to achieve the same functionality using MongoDB, a popular NoSQL language, along
-with adding user authentication. Working on this artifact has allowed me to demonstrate an ability
-to use well-founded and innovative techniques, skills, and tools in computing practices for the
-purpose of implementing computer solutions that deliver value and accomplish industry-specific
-goals, as I was able to create a database with three collections, query the database for
-information, update fields in the database, delete items from the database, and download a
-collection from the database while using a local MongoDB Enterprise Server 6.0 and a MongoDB shell.
-Working on this artifact enhancement has also shown my ability to apply CRUD capable commands and
-queries in both SQL and NoSQL based languages to databases, which is a useful skill in both data
-analysis and data science.
-
-While working on these artifact enhancements and constructing my ePortfolio, I was also able
-to demonstrate the ability to work in a way conducive to a collaborative environment, communicate
-with stakeholders, and ensure software security. My ePortfolio webpage gives access to my public
-GitHub page, where one can find, access, download, and, potentially, contribute to the page. I’ve
-also included explanations, code comments, and data sets for the benefit of any visitors. I’ve
-also developed oral, visual, written communication in the form of a screencast video of my
-artifacts’ code review, flowcharts and UML diagrams of my artifacts and their enhancements,
-narratives accompanying the artifact enhancements, and readme documentation where appropriate.
-I’ve also worked on exception handling to reduce the affects of bugs in the first two artifacts’
-software, as well as password-secured user authentication for my QuantigrationUpdates Database,
-both of which demonstrate a security mindset when it comes to working with code. 
-
-### Code Review
-
-I created a video recording of a code review that I had performed on the three artifacts that
-I selected for my enhancements. In the video, I first cover the project that I selected for my 
-Artifact One Enhancement, then the project that I selected for my Artifact Two Enhancement,
-then the project that I selected for my Artifact Three Enhancement. You can see the video from my
 Google Drive account [here,](https://drive.google.com/file/d/10cxJDtofgnS_sbGbILLz1FpD3kXjxyGa/view?usp=sharing) 
 or you can access a zipped version of the MOV video file to download for yourself [here.](https://drive.google.com/file/d/19qB4ywqz7rjAAgLcKoWCNpRRDYibPWUh/view?usp=sharing)
 
-### Artifact One Enhancement: Bank Program 
+### Predictive Modeling Project: DAT-640 Final Project
 
-Link to public page with the source file (
-[artifactone.zip](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifactone.zip) )
-
-**Banking Program's Flowchart**
+**DAT-650 Final Project Decision Tree**
 
 ![Image](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifactoneimage.jpg)
 
-**Description of the Artifact:**
+**Description of the Project:**
 
-The original project that I picked to demonstrate my software development/engineering skills,
-which was created in February 2022, was the source code of a banking application called
-[“CS 210 Project Two”](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/cs210projecttwo.zip). This artifact presented a menu which asks the user to give an initial investment amount, a monthly deposit amount, an annual interest rate, and
-the number of years (up to five years) in which they wish to see the change in their end of
-year balance and accrued interest. Then, the end of year balance and accrued interest are
-calculated based on these inputs and an output display is made. My enhancement of this artifact
-was to recreate the program using Python, as well as to add more security measures and shorten
-the length of the program’s source code to increase efficiency. This enhancement was made during
-the second week of July in 2022.
+[DAT 640 Final Project](https://docs.google.com/document/d/1MaaLNNyBRTXur2B3V0e1s8Pz4Rw5QLnk/edit?usp=drive_link&ouid=105763848355793464629&rtpof=true&sd=true) is a report for a project in which I built a prediction model for a fictional insurance company "TIC". The business problem presented was to predict which customers where likely to purchase TIC's "Caravan" insurance policies. The project involved some preliminary exploratory analysis of the dataset and the construction of a pruned decision tree model, which could predict who would purchase a Caravan insurance policy with about 92% accuracy. The tools and resources used for this project included the TIC dataset, the R programming language and packages, and RStudio. Documentation of the R code used is included in the report.
 
-**Why This Artifact was Chosen:**
-
-I chose this artifact because it demonstrates my Python programming skills, which is a language
-commonly used in data analysis and data science, my main fields of interest. The range of Python
-programming techniques employed in this enhancement include user defined functions for
-subprocesses such as checking and receiving valid inputs, input receivers, while-loops, conditional
-statements, output displays, and basic arithmetic operations for calculating the year-end balance
-and interest. Also, through working on this artifact, I was able to secure the integrity of the
-software more faithfully by including exception handling for areas of the code receiving user
-input, as well as in areas that perform calculations. 
-
-**Course Objectives:**
-
-While working on this artifact enhancement, I was able to employ strategies for building collaborative
-environments that enable diverse audiences to support organizational decision making in the field of
-computer science. This was done in three main ways. First, there are links to the zipped source file
-of this enhanced artifact, as well as to the original C++ project, which are both on my public
-GitHub repository. That public page also has a readme explaining the purpose of those and other
-files, along with an invitation to download any of the files for oneself. This allows anyone wishing
-to participate to learn about or potentially add to this project and make it their own or contribute
-to the project for the benefit of any developers accessing the page. Second, the source code in the
-enhancement itself employs modularity and clear user defined functions. This allows others to easily
-add to, remove, or move these modules, as well as more easily navigate the source code, for the
-purposes of collaborative work or independent efforts. Third, I made descriptive and specific code
-comments that allow others who would want to understand, change, or add to the code more easily able
-to do so.
-
-While working on this artifact enhancement, I was able to design, develop, and deliver
-professional-quality oral, written, and visual communications that are coherent, technically sound,
-and appropriately adapted to specific audiences and contexts. In terms of oral communication for this
-artifact, I covered the original artifact in the first part of the code review video, where I went
-module by module discussing what the functionality of each module does and what improvements could
-be made. In terms of written communication, I wrote thorough code comments in my enhancement’s source
-code that describe the functionality of the user-defined functions and variables throughout the source
-code. I’ve also written this accompanying narrative to describe why I’ve chosen the artifact, what my
-enhancement of it was, and why I chose this enhancement. In terms of visual communication, I created an
-accurate flowchart showing the basic functionality of the artifact.
-
-While working on this artifact enhancement, I was able to demonstrate an ability to use well-founded
-and innovative techniques, skills, and tools in computing practices for the purpose of implementing
-computer solutions that deliver value and accomplish industry-specific goals. One of the well-founded
-techniques that I employed in the creation of the source code for the artifact enhancement was to
-use exception handling in areas of the code that receive user input and perform calculations. This
-helped ensure that specific messages were presented by the program if a bad input or an error in
-calculation has occurred. Also, by creating a program composed of modular user-defined functions,
-I was able to demonstrate the well-founded technique of making a program modular. The tool that I
-used to develop, test, and run my artifact enhancement’s source code was the Python 3.6.6 Shell.
-This tool allowed me to run lines of code one module at a time to watch for errors and output in
-specific areas of the code, which helped me ensure that, by the end of my work, there were no
-errors and that the output is what was intended.
-
-While working on this artifact enhancement, I was able to develop a security mindset that anticipates
-adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate
-design flaws, and ensure privacy and enhanced security of data and resources. There are no semantic
-or syntax errors in the enhanced artifact’s source code. I was able to ensure this by running the
-program module by module using the Python 3.6.6 Shell. Also, I was able to add exception handling
-and messages for multiple situations involving invalid inputs and calculation errors. For example,
-for the user-defined function containing the code for receiving the initial investment amount from
-the user, I created exception handling code that throws out the message “Invalid initial investment”
-if the values are less than or equal to zero, as only a positive numeric value would make sense for
-the program’s purposes. I created similar exception handling code for the other three inputs asking
-for numeric values, as well as for the areas performing calculations based on the inputs. 
-
-**Reflection**
-
-In the process of enhancing and modifying the artifact, I’ve had to refresh my knowledge of Python,
-as most of my previous experience with Python has been for constructing middle layer code for
-database queries and for statistical analysis. Therefore, I had to take some time and read
-documentation and practice with Python for more general purposes. Much of the new information
-that I needed to learn was also on exception handling in Python. I’ve had previous experience
-with exception handling using Java, but never with Python before working on this artifact.
-These challenges have caused me to, initially, work slowly on this artifact as I got my bearings.
-However, I’ve got more confident and competent along the way as I continued to work throughout
-the week of this artifact’s completion. 
+[“CS 210 Project Two”](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/cs210projecttwo.zip).
 
 ### Artifact Two Enhancement: Storing and Sorting Bids Program
 
