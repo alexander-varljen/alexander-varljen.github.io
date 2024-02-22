@@ -36,7 +36,7 @@ Hello and welcome to my ePortfolio were projects and certifications which displa
 
 **DAD 220 Project One MySQL Database UML Diagram**
 
-![Image](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifactthreemysqldiagram.png)
+![Image](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifactthreemysqldiagram.png?raw=true)
 
 **QuantigrationUpdates MongoDB Database UML Diagram**
 
