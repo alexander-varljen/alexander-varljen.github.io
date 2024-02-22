@@ -15,7 +15,7 @@ Hello and welcome to my ePortfolio were projects and certifications which displa
 
 **DAT-640 Final Project Decision Tree**
 
-![Image](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/docs/assets/DAT-640%20Decision%20Tree.png)
+![DAT-640 Final Project Decision Tree](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/docs/assets/DAT-640%20Decision%20Tree.png)
 
 **Project Description**
 
@@ -24,7 +24,7 @@ Hello and welcome to my ePortfolio were projects and certifications which displa
 ### Data Visualizations Project: DAT-530
 
 **Storm Event Types Visualization from Public Webpage**
-![Image](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/DAT-530%20Storm%20Event%20Types%20Visualization.png)
+![Storm Event Types Visualization](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/DAT-530%20Storm%20Event%20Types%20Visualization.png)
 
 **Project Description**
 
