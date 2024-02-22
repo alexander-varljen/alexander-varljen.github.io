@@ -15,7 +15,6 @@ Hello and welcome to my ePortfolio were projects and certifications which displa
 
 **DAT-640 Final Project Decision Tree**
 
-![DAT-640 Final Project Decision Tree]()
 
 **Project Description**
 
