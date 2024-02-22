@@ -15,7 +15,8 @@ Hello and welcome to my ePortfolio were projects and certifications which displa
 
 **DAT-640 Final Project Decision Tree**
 
-![image](https://github.com/alexander-varljen/alexander-varljen.github.io/assets/73128187/44fc99ec-46cd-4c21-8d4e-f6666f34ed64)
+![image](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/docs/assets/DAT-640%20Decision%20Tree.png?raw=true)
+
 
 
 **Project Description**
