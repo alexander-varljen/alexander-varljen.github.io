@@ -40,7 +40,7 @@ Hello and welcome to my ePortfolio were projects and certifications which displa
 
 **QuantigrationUpdates MongoDB Database UML Diagram**
 
-![Image](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifactthreemongodbdiagram.png)
+![Image](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/artifactthreemongodbdiagram.png?raw=true)
 
 **Description of Projects**
 
