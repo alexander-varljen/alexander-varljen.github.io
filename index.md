@@ -50,7 +50,7 @@ Hello and welcome to my ePortfolio were projects and certifications which displa
 
 ### SAS Project: DAD 215 Final Project
 
-![Image](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/DAD%20215%20Visualization.png)
+![Image](https://github.com/alexander-varljen/alexander-varljen.github.io/blob/main/docs/assets/DAD%20215%20Visualization.png?raw=true)
 
 **Project Description**
 
